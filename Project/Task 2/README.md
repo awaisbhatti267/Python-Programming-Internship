@@ -26,18 +26,19 @@ A simple command-line Expense Tracker built using Python. This project helps use
 2. Save the file as `expense_tracker.py`
 3. Run the program using:
 
-
+```bash id="x8k2m1"
 python expense_tracker.py
+```
 
 ## Example Menu
 
-
+```text id="y5v9n3"
 ===== Expense Tracker =====
 1. Add Expense
 2. View Expenses
 3. Remove Expense
 4. Exit
-
+```
 
 ## Purpose
 
