@@ -25,16 +25,18 @@ A simple command-line To-Do List application built using Python. This project al
 2. Save the file as `todo.py`
 3. Run the program using:
 
+```bash id="c3m4b1"
 python todo.py
-
+```
 
 ## Example Menu
 
+```text id="9k2xv7"
 1. Add a task
 2. View tasks
 3. Remove task
 4. Exit
-
+```
 
 ## Purpose
 
